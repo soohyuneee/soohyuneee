@@ -1,7 +1,7 @@
 ### ⭐️ Nice way to meet me
 <p>
-  <a href="https://succinct-chokeberry-ec8.notion.site/SEB-42-0c00fde8d5b84543b8af92d0034d04ee" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-  <a href="mailto:tlstngus95@naver.com" target="_blank"><img src="https://img.shields.io/badge/tlstngus95@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a><br/><br/>
+  <a href="https://succinct-chokeberry-ec8.notion.site/SEB-42-0c00fde8d5b84543b8af92d0034d04ee" target="_blank"><img src="https://img.shields.io/badge/Notion-212121?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <a href="mailto:tlstngus95@naver.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a><br/><br/>
 </p>
 
 <p>
@@ -20,12 +20,15 @@
 <p>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/styledComponents-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 </p>
 <p>
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/express-181717?style=for-the-badge&logo=express&logoColor=white">
+</p>
+<p>
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
 </p>
