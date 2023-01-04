@@ -1,6 +1,6 @@
 ### ⭐️ Nice way to meet me
 <p>
-  <a href="https://succinct-chokeberry-ec8.notion.site/SEB-42-0c00fde8d5b84543b8af92d0034d04ee" target="_blank"><img src="https://img.shields.io/badge/Notion-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="https://succinct-chokeberry-ec8.notion.site/SEB-42-0c00fde8d5b84543b8af92d0034d04ee" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   <a href="mailto:tlstngus95@naver.com" target="_blank"><img src="https://img.shields.io/badge/tlstngus95@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a><br/><br/>
 </p>
 
