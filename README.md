@@ -1,6 +1,6 @@
 ### ⭐️ Nice way to meet me
 <p>
-  <a href="https://succinct-chokeberry-ec8.notion.site/SEB-42-0c00fde8d5b84543b8af92d0034d04ee" target="_blank"><img src="https://img.shields.io/badge/Notion-212121?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <a href="https://velog.io/@soohyuneee" target="_blank"><img src="https://img.shields.io/badge/Velog-#20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
   <a href="mailto:tlstngus95@naver.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a><br/><br/>
 </p>
 
