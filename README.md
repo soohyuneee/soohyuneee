@@ -1,8 +1,8 @@
 ### ⭐️ Nice way to meet me
 <p>
-  <a href="https://velog.io/@soohyuneee" target="_blank"><img src="https://img.shields.io/badge/gitHub-sponsors
--EA4AAA?style=flat-square&logo=gitHub-sponsors&logoColor=white"/></a>
-  <a href="mailto:tlstngus95@naver.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a><br/><br/>
+  <a href="https://velog.io/@soohyuneee" target="_blank"><img src="https://img.shields.io/badge/github-sponsors
+-EA4AAA?style=flat-square&logo=github-sponsors&logoColor=white"/></a>
+  <a href="mailto:tlstngus95@naver.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <p>
