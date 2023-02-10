@@ -23,6 +23,6 @@
   <img src="https://img.shields.io/badge/styledComponents-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 </p>
 <p>
-  <img src="https://img.shields.io/badge/notion-F24E1E?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
