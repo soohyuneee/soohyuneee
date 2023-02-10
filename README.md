@@ -1,6 +1,6 @@
 ### ⭐️ Nice way to meet me
 <p>
-  <a href="https://velog.io/@soohyuneee" target="_blank"><img src="https://img.shields.io/badge/Velog-#20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+  <a href="https://velog.io/@soohyuneee" target="_blank"><img src="https://img.shields.io/badge/velog-#20C997?style=flat-square&logo=velog&logoColor=white"/></a>
   <a href="mailto:tlstngus95@naver.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a><br/><br/>
 </p>
 
@@ -25,4 +25,5 @@
 <p>
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </p>
