@@ -7,7 +7,6 @@
 
 <p>
   👋&nbsp; Hi there! I'm <b>soohyneee</b>.<br/>
-   I'm currently learning at CodeStates Frontend Bootcamp!<br/><br/>
 </p>
 
 
