@@ -5,7 +5,8 @@
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm <b>soohyneee</b>.<br/><br/>
+  👋&nbsp; Hi there! I'm <b>soohyneee</b>.<br/>
+   I'm currently learning at Wanted Pre-onboarding Internship!<br/><br/>
 </p>
 
 
