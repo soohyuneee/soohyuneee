@@ -4,10 +4,11 @@
   <a href="mailto:soohyun.fe@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a><br/><br/>
 </p>
 
-<p>
-  👋&nbsp; Hi there! I'm <b>soohyneee</b>.<br/>
-   I'm currently learning at Wanted Pre-onboarding Internship!<br/><br/>
-</p>
+### 👩‍💻 About me <br>
+<strong>2023.04 - 2023.05 </strong><br>
+:computer: <em> Wanted Pre-onboarding Internship </em><br><br>
+<strong>2022.10 - 2023.04 </strong><br>
+:book: <em> CodeStates Frontend Bootcamp </em><br><br/>
 
 
 ### 📚 Stacks
