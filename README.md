@@ -5,6 +5,8 @@
 </p>
 
 ### 👩‍💻 About me <br>
+<strong>2023.06 ~ing </strong><br>
+:bulb: <em> Udemy Frontend Project Camp </em><br><br>
 <strong>2023.04 - 2023.05 </strong><br>
 :computer: <em> Wanted Pre-onboarding Internship </em><br><br>
 <strong>2022.10 - 2023.04 </strong><br>
@@ -21,7 +23,7 @@
 <p>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
-  <img src="https://img.shields.io/badge/styledComponents-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 </p>
 
 #### Deployment
