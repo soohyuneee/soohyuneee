@@ -5,7 +5,7 @@
 </p>
 
 ### 👩‍💻 About me <br>
-<strong>2023.06 ~ing </strong><br>
+<strong>2023.06 - 2023.07 </strong><br>
 :bulb: <em> Udemy Frontend Project Camp </em><br><br>
 <strong>2023.04 - 2023.05 </strong><br>
 :computer: <em> Wanted Pre-onboarding Internship </em><br><br>
